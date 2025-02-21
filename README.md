@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @QusaiKhaled
-- 👀 I’m interested in applications of XAI in Water Management; with focus on leak detection and water treatment
+- 👀 I’m interested in applications of XAI in Water Management; with focus on leak detection and water management, treatment and desalination.
 - 🌱 I’m currently learning deep learning, fuzzy systems and AI explainability
 - 💞️ I’m looking to collaborate on how to develope solutions for Water with AI
 - 📫 How to reach me through my linkedin and here also!! linkedin.com/in/qusai-khaled/
